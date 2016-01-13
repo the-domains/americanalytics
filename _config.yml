@@ -1,0 +1,28 @@
+name: AmeriCanalytics
+favicon: null
+layout_spectrum: 0.4058312608394772
+typography_spectrum: 0.710923422826454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7952595981769264
+  lightness: 0.9397718266118318
+  saturation: 0.4251626976765692
+  rhythmicContrast: 0.13103780057281256
+purpose: []
